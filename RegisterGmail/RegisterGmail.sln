@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterGmail.API", "RegisterGmail.API\RegisterGmail.API.csproj", "{60B02571-A787-4CCF-A073-FF58337BF6B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterGmail.Application", "RegisterGmail.Application\RegisterGmail.Application.csproj", "{C5F9B209-4242-4D68-A738-B67889AC5BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterGmail.Domain", "RegisterGmail.Domain\RegisterGmail.Domain.csproj", "{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterGmail.Infrastructure", "RegisterGmail.Infrastructure\RegisterGmail.Infrastructure.csproj", "{B681DCCE-69E6-4B35-9D92-2D5986EE8963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B02571-A787-4CCF-A073-FF58337BF6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B02571-A787-4CCF-A073-FF58337BF6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B02571-A787-4CCF-A073-FF58337BF6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B02571-A787-4CCF-A073-FF58337BF6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F9B209-4242-4D68-A738-B67889AC5BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F9B209-4242-4D68-A738-B67889AC5BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F9B209-4242-4D68-A738-B67889AC5BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F9B209-4242-4D68-A738-B67889AC5BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B681DCCE-69E6-4B35-9D92-2D5986EE8963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B681DCCE-69E6-4B35-9D92-2D5986EE8963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B681DCCE-69E6-4B35-9D92-2D5986EE8963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B681DCCE-69E6-4B35-9D92-2D5986EE8963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F64883FE-B98C-48BC-997D-923EC0518AC5}
+	EndGlobalSection
+EndGlobal

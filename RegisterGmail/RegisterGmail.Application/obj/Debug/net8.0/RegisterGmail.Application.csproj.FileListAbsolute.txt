@@ -1,0 +1,15 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\bin\Debug\net8.0\RegisterGmail.Application.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\bin\Debug\net8.0\RegisterGmail.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\bin\Debug\net8.0\RegisterGmail.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\bin\Debug\net8.0\RegisterGmail.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\bin\Debug\net8.0\RegisterGmail.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\RegisterGmail.Application.csproj.AssemblyReference.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\RegisterGmail.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\RegisterGmail.Application.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\RegisterGmail.Application.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\RegisterGmail.Application.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\Register.2E4E59AF.Up2Date
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\RegisterGmail.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\refint\RegisterGmail.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\RegisterGmail.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Application\obj\Debug\net8.0\ref\RegisterGmail.Application.dll

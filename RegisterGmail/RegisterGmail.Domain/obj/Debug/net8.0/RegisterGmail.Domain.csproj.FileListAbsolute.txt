@@ -1,0 +1,11 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\bin\Debug\net8.0\RegisterGmail.Domain.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\bin\Debug\net8.0\RegisterGmail.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\bin\Debug\net8.0\RegisterGmail.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\obj\Debug\net8.0\RegisterGmail.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\obj\Debug\net8.0\RegisterGmail.Domain.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\obj\Debug\net8.0\RegisterGmail.Domain.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\obj\Debug\net8.0\RegisterGmail.Domain.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\obj\Debug\net8.0\RegisterGmail.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\obj\Debug\net8.0\refint\RegisterGmail.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\obj\Debug\net8.0\RegisterGmail.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\RegisterGmail\RegisterGmail.Domain\obj\Debug\net8.0\ref\RegisterGmail.Domain.dll

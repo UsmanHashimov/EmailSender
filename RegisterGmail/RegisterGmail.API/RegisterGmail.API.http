@@ -1,0 +1,6 @@
+@RegisterGmail.API_HostAddress = http://localhost:5048
+
+GET {{RegisterGmail.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
