@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Pm2l15qmUFT++5YRMPoH3KBb6v1SU7HWvGpLM4fqKBw2m4uS1exri9hQJwvuTpgLfzp4aZ0bsEbKoYhs6l96Q==",
+  "dgSpecHash": "TkcFoa/PugmwSLKMY2XJx3G5RPsE0HfzBqaI2jR0cMLwFaC1rcS/wWaqduwYERqHRjh/Rh6QOYVehlW5yYEJ3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Application\\RegisterGmail.Application.csproj",
+  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Application\\RegisterGmail.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],

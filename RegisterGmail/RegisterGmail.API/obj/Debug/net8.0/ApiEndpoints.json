@@ -38,7 +38,7 @@
   {
     "ContainingType": "RegisterGmail.API.Controllers.RegisterController",
     "Method": "Register",
-    "RelativePath": "api/Register",
+    "RelativePath": "api/Register/Register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -57,9 +57,35 @@
         "Name": "Password",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegisterGmail.API.Controllers.RegisterController",
+    "Method": "VerifyUser",
+    "RelativePath": "api/Register/VerifyUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
       },
       {
-        "Name": "code",
+        "Name": "verificationCode",
         "Type": "System.String",
         "IsRequired": false
       }

@@ -2775,11 +2775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.API\\RegisterGmail.API.csproj",
+      "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.API\\RegisterGmail.API.csproj",
       "projectName": "RegisterGmail.API",
-      "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.API\\RegisterGmail.API.csproj",
+      "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.API\\RegisterGmail.API.csproj",
       "packagesPath": "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.API\\obj\\",
+      "outputPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A C E R   N I T R O\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2796,11 +2796,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Application\\RegisterGmail.Application.csproj": {
-              "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Application\\RegisterGmail.Application.csproj"
+            "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Application\\RegisterGmail.Application.csproj": {
+              "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Application\\RegisterGmail.Application.csproj"
             },
-            "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj"
+            "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj"
             }
           }
         }

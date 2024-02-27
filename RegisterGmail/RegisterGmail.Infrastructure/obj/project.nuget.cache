@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QpmC5ka6Fcf48lM530zWIAatM3q6Vctp9lwIEjYNvOMUxYe81xADMRcwEovyMAMYdupf32fE7FW/aKXSuJskkA==",
+  "dgSpecHash": "6cV8SjeTK6E8VAweB6TzXfata7gO2j1EywbmyCjFs/g08ZlyOv029b6Y7Vx3c2bVbCyNHfkbHse6m8rSktF2vQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

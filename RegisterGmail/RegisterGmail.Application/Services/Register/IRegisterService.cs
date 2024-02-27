@@ -4,6 +4,7 @@ namespace RegisterGmail.Application.Services.Register
 {
     public interface IRegisterService
     {
-        public Task<string> Register(UserDTO user, string code);
+        public Task<string> Register(UserDTO user);
+        public Task<string> VerifyUser(string email, string verificationCode);
     }
 }

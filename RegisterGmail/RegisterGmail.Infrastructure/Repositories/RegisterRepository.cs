@@ -20,7 +20,7 @@ namespace RegisterGmail.Infrastructure.Repositories
             _config = config;
         }
 
-        public async Task<string> Register(UserDTO user, string code)
+        public async Task<string> Register(UserDTO user)
         {
             var existingUser = await _dbContext.Users.FirstOrDefaultAsync(u => u.Email == user.Email);
 
@@ -29,12 +29,19 @@ namespace RegisterGmail.Infrastructure.Repositories
                 throw new GmailExistsException();
             }
 
-            var User = new User()
+            Random random = new Random();
+            var verCode = $"{random.Next(1000, 9999)}";
+
+            var tempUser = new User()
             {
                 UserName = user.UserName,
                 Email = user.Email,
                 Password = user.Password,
+                confirmPassword = verCode
             };
+
+            await _dbContext.AddAsync(tempUser);
+            await _dbContext.SaveChangesAsync();
 
             var emailSettings = _config.GetSection("EmailSettings");
 
@@ -42,7 +49,7 @@ namespace RegisterGmail.Infrastructure.Repositories
             {
                 From = new MailAddress(emailSettings["Sender"], emailSettings["SenderName"]),
                 Subject = "confirm",
-                Body = "<h1> Verification code: 1233Equ21390",
+                Body = $"<h1> Verification code: {verCode}</h1>",
                 IsBodyHtml = true,
 
             };
@@ -58,13 +65,35 @@ namespace RegisterGmail.Infrastructure.Repositories
 
             await smtpClient.SendMailAsync(mailMessage);
 
-            if (code == "1233Equ21390")
+            return "Verification code sent.";
+        }
+
+        public async Task<string> VerifyUser(string email, string verificationCode)
+        {
+            var tempUser = await _dbContext.Users.FirstOrDefaultAsync(u => u.Email == email);
+
+            if (tempUser == null)
             {
-                await _dbContext.AddAsync(User);
+                return "Invalid request.";
+            }
+
+            if (tempUser.confirmPassword == verificationCode)
+            {
+                var user = new User()
+                {
+                    UserName = tempUser.UserName,
+                    Email = tempUser.Email,
+                    Password = tempUser.Password,
+                };
+
+                await _dbContext.AddAsync(user);
                 await _dbContext.SaveChangesAsync();
+
                 return "User registered successfully.";
             }
+
             return "Incorrect code";
         }
+
     }
 }

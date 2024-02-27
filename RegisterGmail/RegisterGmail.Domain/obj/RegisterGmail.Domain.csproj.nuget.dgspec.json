@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Domain\\RegisterGmail.Domain.csproj": {}
+    "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Domain\\RegisterGmail.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Domain\\RegisterGmail.Domain.csproj": {
+    "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Domain\\RegisterGmail.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Domain\\RegisterGmail.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Domain\\RegisterGmail.Domain.csproj",
         "projectName": "RegisterGmail.Domain",
-        "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Domain\\RegisterGmail.Domain.csproj",
+        "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Domain\\RegisterGmail.Domain.csproj",
         "packagesPath": "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\RegisterGmail\\RegisterGmail.Domain\\obj\\",
+        "outputPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\EmailSender\\RegisterGmail\\RegisterGmail.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A C E R   N I T R O\\AppData\\Roaming\\NuGet\\NuGet.Config",

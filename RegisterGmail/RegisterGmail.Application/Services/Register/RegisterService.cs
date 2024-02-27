@@ -8,9 +8,16 @@ namespace RegisterGmail.Application.Services.Register
         private readonly IRegisterRepository _registerRepo;
         public RegisterService(IRegisterRepository registerRepo)
             => _registerRepo = registerRepo;
-        public async Task<string> Register(UserDTO user, string code)
+        public async Task<string> Register(UserDTO user)
         {
-            var res = await _registerRepo.Register(user, code);
+            var res = await _registerRepo.Register(user);
+
+            return res;
+        }
+
+        public async Task<string> VerifyUser(string email, string verificationCode)
+        {
+            var res = await _registerRepo.VerifyUser(email, verificationCode);
 
             return res;
         }
